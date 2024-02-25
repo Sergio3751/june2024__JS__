@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1be95d0-0fc7-400d-b3f3-286df3e5b1be" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson1/HomeWork.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson1/main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/june2024__JS__.iml" afterDir="false" />
+    <list default="true" id="a1be95d0-0fc7-400d-b3f3-286df3e5b1be" name="Changes" comment="innit commit">
+      <change afterPath="$PROJECT_DIR$/Lesson2/HomeWork2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson2/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -42,11 +38,12 @@
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "js.last.introduce.type": "LET",
-    "last_opened_file_path": "C:/Users/Samsung/ git proekt1/Jawa2023/Lesson1/main.js",
+    "last_opened_file_path": "C:/Users/Samsung/ git proekt1/Jawa june/Lesson2/main.js",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "fileTemplates",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -59,11 +56,29 @@
       <option name="presentableId" value="Default" />
       <updated>1708634763173</updated>
       <workItem from="1708634767226" duration="3146000" />
-      <workItem from="1708638005508" duration="979000" />
+      <workItem from="1708638005508" duration="1696000" />
+      <workItem from="1708845679708" duration="10836000" />
     </task>
+    <task id="LOCAL-00001" summary="innit commit">
+      <option name="closed" value="true" />
+      <created>1708639135970</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1708639135970</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="innit commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="innit commit" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
