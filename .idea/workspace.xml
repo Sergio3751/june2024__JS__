@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1be95d0-0fc7-400d-b3f3-286df3e5b1be" name="Changes" comment="innit commit">
-      <change afterPath="$PROJECT_DIR$/Lesson2/HomeWork2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson2/main.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a1be95d0-0fc7-400d-b3f3-286df3e5b1be" name="Changes" comment="innit commit" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,7 +53,7 @@
       <updated>1708634763173</updated>
       <workItem from="1708634767226" duration="3146000" />
       <workItem from="1708638005508" duration="1696000" />
-      <workItem from="1708845679708" duration="10836000" />
+      <workItem from="1708845679708" duration="11143000" />
     </task>
     <task id="LOCAL-00001" summary="innit commit">
       <option name="closed" value="true" />
@@ -67,7 +63,15 @@
       <option name="project" value="LOCAL" />
       <updated>1708639135970</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="innit commit">
+      <option name="closed" value="true" />
+      <created>1708891594924</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1708891594924</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
