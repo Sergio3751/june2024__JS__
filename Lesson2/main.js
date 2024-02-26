@@ -52,21 +52,21 @@ let first_book1 = {
     title: 'Harry Potter',
     pageCount: '248',
     genre: 'fantasy',
-    authors: [name = 'Joanne', age = '58'],
+    authors: {name : 'Joanne', age : '58'},
 };
 console.log(first_book1)
 let two_book2 = {
     title: 'The Divine Comedy',
     pageCount: '607',
     genre: 'comedy',
-    authors: [name = 'Dante', age = '78']
+    authors: {name : 'Dante', age : '78'},
 };
 console.log(two_book2)
 let three_book3 = {
     title: 'Rich Dead',
     pageCount: '352',
     genre: 'philosophical social',
-    authors: [name = 'Robert T', age = '76']
+    authors: {name: 'Robert', age: '76'},
 }
 console.log(three_book3)
 // - Створити масив з 10 об'єктами які описують сутніть "користувач". Поля: name, username,password. Вивести в консоль пароль кожного користувача
@@ -97,8 +97,8 @@ console.log(arrOne[9].password);
 // Логічні розгалуження:
 //     - Є змінна х, якій ви надаєте довільне числове значення.
 //     Якщо змінна x не дорівнює нулю, виведіть 'Вірно', інакше виведіть 'Невірно'. Перевірте  скрипт при a, що дорівнює 1, 0, -3
-let x1 = 0;
-if (x1 === 0) {
+let x1 = 1;
+if (x1 !== 0) {
     document.write('Вірно');
 } else {
     document.write('Невірно');
@@ -164,7 +164,7 @@ if (a > b) {
     console.log(a);
 } else if (a < b) {
     console.log(b);
-} else if ( a === b ){
+} else if (a === b) {
     console.log('Cool')
 }
 //
