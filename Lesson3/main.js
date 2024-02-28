@@ -146,4 +146,9 @@ for (const user of users) {
         document.write(`<div>${user.name} ${user.age} ${user.status}</div>`)
     }
 }
-
+for (let i = 0; i < users.length; i++) {
+    if (users.status[i])
+    document.write(`
+        <div>${users[i].name} ${users[i].age} ${users[i].status}</div>
+    `);
+}

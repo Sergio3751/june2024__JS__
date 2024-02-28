@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1be95d0-0fc7-400d-b3f3-286df3e5b1be" name="Changes" comment="edd authors and let x1">
-      <change afterPath="$PROJECT_DIR$/Lesson3/HomeWork3.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson3/main.js" afterDir="false" />
+    <list default="true" id="a1be95d0-0fc7-400d-b3f3-286df3e5b1be" name="Changes" comment="innit commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson3/HomeWork3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/HomeWork3.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson3/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +60,7 @@
       <workItem from="1708845679708" duration="12581000" />
       <workItem from="1708965882128" duration="3202000" />
       <workItem from="1709060017496" duration="4867000" />
-      <workItem from="1709146670619" duration="6048000" />
+      <workItem from="1709146670619" duration="6936000" />
     </task>
     <task id="LOCAL-00001" summary="innit commit">
       <option name="closed" value="true" />
@@ -102,16 +102,24 @@
       <option name="project" value="LOCAL" />
       <updated>1708967495664</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="innit commit">
+      <option name="closed" value="true" />
+      <created>1709153086551</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1709153086551</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="innit commit" />
     <MESSAGE value="edd authors and let x1" />
-    <option name="LAST_COMMIT_MESSAGE" value="edd authors and let x1" />
+    <MESSAGE value="innit commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="innit commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
