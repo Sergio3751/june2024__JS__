@@ -146,4 +146,4 @@ for (const user of users) {
         document.write(`<div>${user.name} ${user.age} ${user.status}</div>`)
     }
 }
-
+document.write(`____________________________`)
