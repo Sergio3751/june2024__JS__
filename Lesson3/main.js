@@ -135,10 +135,22 @@ for (const user of users) {
     }
 }
 document.write(`__________`)
+for (let i = 0; i < users.length; i++) {
+    const user = users[i];
+    if (user.status)
+        document.write(`<div>${user.name} ${user.age} ${user.status}</div>`)
+}
+document.write(`___________`)
 for (const user of users) {
     if (!user.status) {
         document.write(`<div>${user.name} ${user.age} ${user.status}</div>`)
     }
+}
+document.write(`__________`)
+for (let i = 0; i < users.length; i++) {
+    const user = users[i];
+    if (!user.status)
+        document.write(`<div>${user.name} ${user.age} ${user.status}</div>`)
 }
 document.write(`__________`)
 for (const user of users) {
@@ -146,4 +158,10 @@ for (const user of users) {
         document.write(`<div>${user.name} ${user.age} ${user.status}</div>`)
     }
 }
-document.write(`____________________________`)
+document.write(`__________`)
+for (let i = 0; i < users.length; i++) {
+    const user = users[i];
+    if (user.age>30){
+        document.write(`<div>${user.name} ${user.age} ${user.status}</div>`)
+    }
+}

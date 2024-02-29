@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1be95d0-0fc7-400d-b3f3-286df3e5b1be" name="Changes" comment="innit commit">
+    <list default="true" id="a1be95d0-0fc7-400d-b3f3-286df3e5b1be" name="Changes" comment=" commit user">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Lesson3/HomeWork3.html" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/HomeWork3.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Lesson3/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson3/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +59,7 @@
       <workItem from="1708845679708" duration="12581000" />
       <workItem from="1708965882128" duration="3202000" />
       <workItem from="1709060017496" duration="4867000" />
-      <workItem from="1709146670619" duration="6936000" />
+      <workItem from="1709146670619" duration="8109000" />
     </task>
     <task id="LOCAL-00001" summary="innit commit">
       <option name="closed" value="true" />
@@ -110,7 +109,31 @@
       <option name="project" value="LOCAL" />
       <updated>1709153086551</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary=" commit product">
+      <option name="closed" value="true" />
+      <created>1709153861582</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1709153861582</updated>
+    </task>
+    <task id="LOCAL-00008" summary=" commit user">
+      <option name="closed" value="true" />
+      <created>1709153925953</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1709153925953</updated>
+    </task>
+    <task id="LOCAL-00009" summary=" commit user">
+      <option name="closed" value="true" />
+      <created>1709154057964</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1709154057964</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,7 +142,9 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="edd authors and let x1" />
     <MESSAGE value="innit commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="innit commit" />
+    <MESSAGE value=" commit product" />
+    <MESSAGE value=" commit user" />
+    <option name="LAST_COMMIT_MESSAGE" value=" commit user" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
