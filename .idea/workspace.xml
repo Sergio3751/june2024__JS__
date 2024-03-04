@@ -4,10 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a1be95d0-0fc7-400d-b3f3-286df3e5b1be" name="Changes" comment="add itar">
-      <change afterPath="$PROJECT_DIR$/Lesson4/HomeWork4.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Lesson4/main.js" afterDir="false" />
+    <list default="true" id="a1be95d0-0fc7-400d-b3f3-286df3e5b1be" name="Changes" comment="innit commit">
+      <change afterPath="$PROJECT_DIR$/Lesson5/Home.Work5.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lesson5/main.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Lesson4/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/Lesson4/main.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +65,8 @@
       <workItem from="1709234076928" duration="2718000" />
       <workItem from="1709453523301" duration="76000" />
       <workItem from="1709453785448" duration="5416000" />
-      <workItem from="1709486405611" duration="10589000" />
+      <workItem from="1709486405611" duration="11425000" />
+      <workItem from="1709562369771" duration="5127000" />
     </task>
     <task id="LOCAL-00001" summary="innit commit">
       <option name="closed" value="true" />
@@ -146,7 +148,15 @@
       <option name="project" value="LOCAL" />
       <updated>1709234249808</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="innit commit">
+      <option name="closed" value="true" />
+      <created>1709497179668</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1709497179668</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -154,11 +164,11 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="edd authors and let x1" />
-    <MESSAGE value="innit commit" />
     <MESSAGE value=" commit product" />
     <MESSAGE value=" commit user" />
     <MESSAGE value="add itar" />
-    <option name="LAST_COMMIT_MESSAGE" value="add itar" />
+    <MESSAGE value="innit commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="innit commit" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
