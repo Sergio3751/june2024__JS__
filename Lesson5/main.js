@@ -1,18 +1,18 @@
 // ВСЕ ЗРОБИТИ СТРІЛОЧНИМИ ФУНКЦІЯМИ!
 //     - створити функцію яка обчислює та повертає площу прямокутника зі сторонами а і б
-plane = (a, b) => a * b;
+let plane = (a, b) => a * b;
 let p = plane(10, 20)
 console.log(p)
 // - створити функцію яка обчислює та повертає площу кола з радіусом r
-planeCircle = (Pi, r) => Pi * r ** 2;
+let planeCircle = (Pi, r) => Pi * r ** 2;
 let pc = planeCircle(3.14, 10);
 console.log(pc);
 // - створити функцію яка обчислює та повертає площу циліндру висотою h, та радіутом r
-Cylinder = (Pi, r, h) => 2 * Pi * r * (h + r);
+let Cylinder = (Pi, r, h) => 2 * Pi * r * (h + r);
 let Cy = Cylinder(3.14, 10, 20);
 console.log(Cy)
 // - створити функцію яка приймає масив та виводить кожен його елемент
-mass = (abs) => {
+let mass = (abs) => {
     for (const item of abs) {
         console.log(item);
     }
@@ -21,10 +21,10 @@ mass([`Ser`, 1984, "java"]);
 console.log(`________________`)
 mass([`Natalia`, 1992, "Med"]);
 // - створити функцію яка створює параграф з текстом. Текст задати через аргумент
-paragraf = (txt) => document.write(`<p>${txt}</p>`)
+let paragraf = (txt) => document.write(`<p>${txt}</p>`)
 paragraf('Serhii')
 // - створити функцію яка створює ul з трьома елементами li. Текст li задати через аргумент всім однаковий
-ulOne = (txt1, txt2, txt3) =>
+let ulOne = (txt1, txt2, txt3) =>
     document.write(`<div>
                         <ul>
                             <li>${txt1}</li>
@@ -34,7 +34,7 @@ ulOne = (txt1, txt2, txt3) =>
                     </div>`)
 ulOne('Happy', 'Happy', 'Happy')
 // - створити функцію яка створює ul з трьома елементами li. Текст li задати через аргумент всім однаковий. Кількість li визначається другим аргументом, який є числовим (тут використовувати цикл)
-ulTwo = (txt, count) => {
+let ulTwo = (txt, count) => {
     document.write(`<ul>`);
     for (let i = 0; i < count; i++) {
         document.write(`<li>${txt}</li>`);
@@ -45,7 +45,7 @@ ulTwo = (txt, count) => {
 ulTwo('Serhii', 3);
 ulTwo('Kinash', 4);
 // - створити функцію яка приймає масив примітивних елементів (числа,стрінги,булеві), та будує для них список
-prymityv = (Arr) => {
+let prymityv = (Arr) => {
     document.write(`<ul>`);
     for (let text of Arr) {
         document.write(`<li>${text}</li>`);
@@ -79,7 +79,7 @@ function userpeoples() {
 
 userpeoples()
 // - створити функцію яка повертає найменьше число з масиву
-nam = (number) => {
+let nam = (number) => {
     let min = number[0];
     for (let i = 0; i < number.length; i++) {
         if (number[i] < min) {
@@ -90,7 +90,7 @@ nam = (number) => {
 }
 console.log(nam([45, 67, 33, 66, 56]));
 // - створити функцію sum(arr)яка приймає масив чисел, сумує значення елементів масиву та повертає його. Приклад sum([1,2,10]) //->13
-sum = (arr) => {
+let sum = (arr) => {
     let result = 0;
     for (let i = 0; i < arr.length; i++) {
         result = result + arr[i];
@@ -100,7 +100,7 @@ sum = (arr) => {
 console.log(sum([22, 33, 44, 55, 66, 77]))
 // - створити функцію swap(arr,index1,index2). Функція міняє місцями заняення у відаовідних індексах
 // Приклад  swap([11,22,33,44],0,1) //=> [22,11,33,44]
-swap = (arr, index1, index2) => {
+let swap = (arr, index1, index2) => {
     let namIndex1 = arr[index1];
     arr[index1] = arr[index2];
     arr[index2] = namIndex1;
@@ -110,7 +110,7 @@ swap = (arr, index1, index2) => {
 console.log(swap([11, 22, 33, 44], 0, 1))
 // - Написати функцію обміну валюти exchange(sumUAH,currencyValues,exchangeCurrency)
 // Приклад exchange(10000,[{currency:'USD',va lue:40},{currency:'EUR',value:42}],'USD') // => 250
-exchange = (sum, too, dollars) => {
+let exchange = (sum, too, dollars) => {
     for (let cur of too) {
         if (cur.currency === dollars) {
             return sum / cur.value
